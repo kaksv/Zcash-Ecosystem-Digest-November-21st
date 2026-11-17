@@ -4,7 +4,7 @@
 **Bounty:** 0.045 ZEC  
 **Contributor:** [squirrel](https://bounties.zechub.wiki/users/squirrel)
 
-> **Research note:** This draft was researched through November 16, 2026. November 21, 2026 has not yet arrived, so activity after November 16 is not included. Verify each link and add any updates published between November 17 and November 21 before submitting to GitHub.
+> **Research note:** This draft was researched through November 16, 2026 and actively being updated till November 21, 2026 . Verify each link and add any updates published between November 17 and November 21 before submitting to GitHub.
 
 ## Valar Group, Project Tachyon, Shielded Labs, ZODL, and Zcash Foundation Updates
 
